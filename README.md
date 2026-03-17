@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 Hi there, I'm Yogesh<br><br>
+# 👋 Hi there, I'm Yogesh<br><br>
 
 🚀 DevOps & Cloud Enthusiast | Building AI and Distributed Systems<br><br>
 
