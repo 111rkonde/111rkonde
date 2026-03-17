@@ -1,5 +1,16 @@
 # 💫 About Me:
-## 👋 Hi there, I'm Yogesh<br><br>🚀 DevOps & Cloud Enthusiast building scalable AI and distributed systems.<br><br>* 🔭 I’m currently working on **DevOps projects, AI projects, and Cloud projects** while learning and implementing various **AWS services**.<br>* 👯 I’m looking to collaborate on **DevOps and Cloud open source projects**, **AI projects**, **Cloud Architecture projects**, and **Monolithic & Distributed system projects**.<br>* 🤝 I’m looking for help with **Advanced DevOps automation, Terraform, Kubernetes (K8s), System Design, Distributed Systems, and Modern Monolithic System Architecture**.<br>* 🌱 I’m currently learning **AWS Services, Kubernetes, Docker, Git, GitHub, System Design, Python, SQL, Java, Cloud Computing, Distributed Architecture, and DevOps tools**.<br>* 💬 Ask me about **Linux commands, DevOps fundamentals, AWS basics, System Design fundamentals, Git & GitHub, Cloud Architecture, Python, Java, and SQL**.<br>* 📫 How to reach me:<br><br>  * Email: **[rkonde91@gmail.com](mailto:rkonde91@gmail.com)**<br>  * LinkedIn: **[www.linkedin.com/in/yogeshkonde](http://www.linkedin.com/in/yogeshkonde)**<br>
+## 👋 Hi there, I'm Yogesh<br><br>
+
+🚀 DevOps & Cloud Enthusiast | Building AI and Distributed Systems<br><br>
+
+* 🔭 Working on **DevOps, AI, and Cloud projects**<br>
+* 🌱 Learning **AWS, Kubernetes, Docker, Git, System Design**<br>
+* 👯 Open to collaborate on **DevOps, Cloud, AI & Distributed System projects**<br>
+* 💬 Ask me about **Linux, DevOps, AWS, Git, Cloud Architecture, Python, Java, SQL**<br>
+* 📫 Reach me:<br><br>
+
+  * Email: **[rkonde91@gmail.com](mailto:rkonde91@gmail.com)**<br>
+  * LinkedIn: **[linkedin.com/in/yogeshkonde](https://www.linkedin.com/in/yogeshkonde)**<br>
 
 
 # 💻 Tech Stack:
