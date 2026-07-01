@@ -3,12 +3,12 @@
 🚀 DevOps & Cloud Enthusiast | Building AI and Distributed Systems<br><br>
 
 * 🔭 Working on **DevOps, AI, and Cloud projects**<br>
-* 🌱 Learning **AWS, Kubernetes, Docker, Git, System Design**<br>
+* 🌱 Learning **AWS, Kubernetes, Docker, Git, System Design ,Terraform , Datadog , CI/CD**<br>
 * 👯 Open to collaborate on **DevOps, Cloud, AI & Distributed System projects**<br>
 * 💬 Ask me about **Linux, DevOps, AWS, Git, Cloud Architecture, Python, Java, SQL**<br>
 * 📫 Reach me:<br><br>
 
-  * Email: **[rkonde91@gmail.com](mailto:rkonde91@gmail.com)**<br>
+  * Email: **[rkonde91@gmail.com](mailto:yogesh.konde.tech@gmail.com)**<br>
   * LinkedIn: **[linkedin.com/in/yogeshkonde](https://www.linkedin.com/in/yogeshkonde)**<br>
 
 
